@@ -36,3 +36,4 @@ lerna-debug.log*
 
 # IDE - ZED
 .zed
+kubernetes
